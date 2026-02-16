@@ -1,4 +1,4 @@
-const CACHE_NAME = 'my-pwa-cache-v12';
+const CACHE_NAME = 'my-pwa-cache-v14';
 
 self.addEventListener('install', (event) => {
     console.log('Service Worker: Evento de instalación');
